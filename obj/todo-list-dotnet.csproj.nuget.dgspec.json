@@ -57,6 +57,14 @@
               "target": "Package",
               "version": "[9.0.7, )"
             },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Serilog.Sinks.Console": {
               "target": "Package",
               "version": "[6.0.0, )"

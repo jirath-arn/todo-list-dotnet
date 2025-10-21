@@ -40,3 +40,11 @@
 /Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/HealthChecks.UI.Core.dll
 /Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.dll
 /Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Sinks.File.dll
