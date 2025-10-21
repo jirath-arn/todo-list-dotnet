@@ -35,3 +35,8 @@
 /Users/513008216/Desktop/dotnet/todo-list-dotnet/obj/Debug/net9.0/todo-list-dotnet.pdb
 /Users/513008216/Desktop/dotnet/todo-list-dotnet/obj/Debug/net9.0/todo-list-dotnet.genruntimeconfig.cache
 /Users/513008216/Desktop/dotnet/todo-list-dotnet/obj/Debug/net9.0/ref/todo-list-dotnet.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/HealthChecks.ApplicationStatus.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/HealthChecks.UI.Client.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/HealthChecks.UI.Core.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.dll
+/Users/513008216/Desktop/dotnet/todo-list-dotnet/bin/Debug/net9.0/Serilog.Sinks.Console.dll
