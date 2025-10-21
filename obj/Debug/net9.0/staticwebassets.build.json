@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f90RBajZKSzxUyLmw6iIKtjqOjjPt7GUgDMZI5Y+sUI=",
+  "Source": "todo-list-dotnet",
+  "BasePath": "_content/todo-list-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
